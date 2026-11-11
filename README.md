@@ -2,7 +2,7 @@
 
 *Informatics Engineering Student @ Institut Teknologi Adhi Tama Surabaya (ITATS)*
 
-Passionate about **Data Science & AI** 🤖 With a full-stack background across **hardware/IoT**,
+Passionate about **Data Science & AI** With a full-stack background across **hardware/IoT**,
 **backend**, **mobile**, and **machine learning**, I enjoy building products end to end,
 from a microcontroller to a deployed app.
 
@@ -32,7 +32,5 @@ Open to collaborate on **IoT projects**, **mobile apps** & **data/ML projects**!
 ---
 
 ## 📌 Featured Projects
-- 🍷 **[SIbi](https://github.com/habi-labs/Otomasi_Gaji)**: web estimasi & pembagian gaji tanpa login
-- 💰 **[Keobi](https://github.com/habi-labs/Keobi_Aplikasi_Catatan_Keuangan)**: aplikasi mobile catatan keuangan
-- 🪟 **[Automatic Curtain IoT](https://github.com/habi-labs/Auutomatic_Curtain_Iot)**: gorden otomatis berbasis IoT
-- 💵 **[Deteksi Nominal Uang](https://github.com/habi-labs/Deteksi_Nominal_Uang_ML)**: deteksi rupiah untuk tunanetra
+-  **[Keobi](https://github.com/habi-labs/Keobi_Aplikasi_Catatan_Keuangan)**: aplikasi mobile catatan keuangan
+-  **[Automatic Curtain IoT](https://github.com/habi-labs/Auutomatic_Curtain_Iot)**: gorden otomatis berbasis IoT
